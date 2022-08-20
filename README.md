@@ -1,6 +1,6 @@
 <h2 align="center">Rappi4</h2>
 
-<h4 align="center">Projeto idealizado para simular um aplicativo de delivery de comida (ifood, rappi, uber eats).</h4>
+<h3 align="center">Projeto idealizado para simular um aplicativo de delivery de comida (ifood, rappi, uber eats).</h3>
 
 ### Funcionalidades
 
